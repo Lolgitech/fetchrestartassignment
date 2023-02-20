@@ -10,10 +10,7 @@ function App() {
 
 export default App;
 
-
-
 // import GetData from "./BlogData.jsx";
-
 
 // export default function BlogGenerator() {
 //   function GetBlog() {
@@ -126,7 +123,6 @@ export default App;
 //   );
 // }
 
-
 // import { useState } from "react";
 
 // function Form() {
@@ -153,8 +149,6 @@ export default App;
 // }
 
 // export default Form;
-
-
 
 // useEffect(() => {
 //     fetch("https://pokeapi.co/api/v2/pokemon")
